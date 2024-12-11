@@ -1,1 +1,2 @@
 # Hangman-Java
+Hangman is a game where a user is presented with a series of blanks representing missing letters of a word. A user can choose one letter at a time that they think might be in the word. If the word contains a letter that the user chose, then the corresponding blank is changed to the letter. If the user chooses a letter that is not in the word, then a strike is added to their current strike count, the letter is added to the “wrong” letters section, and an additional piece of the man is drawn on screen.
