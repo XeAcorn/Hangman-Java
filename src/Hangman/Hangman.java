@@ -238,6 +238,7 @@ public class Hangman extends JFrame
 		
 		//Put the text in the center of the text field
 		guessStr.setHorizontalAlignment(JTextField.CENTER);
+		
 		//Enlarge the font size of the text field
 		guessStr.setFont(new Font("Arial", Font.BOLD, 48));
 		

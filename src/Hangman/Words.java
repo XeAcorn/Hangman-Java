@@ -33,6 +33,7 @@ public class Words
 				words.add(scan.next().toUpperCase());
 			}
 		}
+		
 		//If file is not found, send to console
 		catch (FileNotFoundException e)
 		{
